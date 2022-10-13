@@ -304,8 +304,11 @@ java.lang.NullPointerException: Cannot invoke "java.io.File.getParentFile()" bec
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-11 15:01:29.193
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2022-10-13 23:43:00.134 -----------------------------------------------
 =======
+=======
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-11 15:10:41.928
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
@@ -847,6 +850,9 @@ org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://do
 !ENTRY org.eclipse.core.jobs 2 2 2022-10-11 17:41:17.470
 !MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob
 !SESSION 2022-10-11 17:41:20.266 -----------------------------------------------
+<<<<<<< HEAD
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
+=======
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 eclipse.buildId=4.25.0.I20220831-1800
 java.version=17.0.4.1
@@ -856,9 +862,15 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.jface 2 0 2022-10-13 23:43:16.691
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-10-13 23:43:16.691
+=======
+!ENTRY org.eclipse.jface 2 0 2022-10-11 17:41:35.992
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-10-11 17:41:35.992
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 =======
 !ENTRY org.eclipse.jface 2 0 2022-10-11 17:41:35.992
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
@@ -882,7 +894,11 @@ Binding(CTRL+SHIFT+T,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-10-13 23:43:16.691
+=======
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-10-11 17:41:35.992
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 =======
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-10-11 17:41:35.992
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
@@ -905,7 +921,11 @@ Binding(ALT+SHIFT+R,
 	org.eclipse.ui.contexts.window,,,system)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.egit.ui 2 0 2022-10-13 23:43:19.872
+=======
+!ENTRY org.eclipse.egit.ui 2 0 2022-10-11 17:41:41.663
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 =======
 !ENTRY org.eclipse.egit.ui 2 0 2022-10-11 17:41:41.663
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
@@ -915,6 +935,7 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-13 23:43:21.625
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
@@ -929,6 +950,8 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 !SESSION 2022-10-13 23:45:49.895 -----------------------------------------------
 =======
+=======
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 !ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-11 17:50:18.137
 !MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/mylyn/releases/latest/, see CVE-2021-41033. Consider using https instead.
 
@@ -994,6 +1017,9 @@ java.lang.IllegalStateException: operation plan must be resolved
 	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceWizard.lambda$5(MarketplaceWizard.java:876)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
 !SESSION 2022-10-11 17:52:17.528 -----------------------------------------------
+<<<<<<< HEAD
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
+=======
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 eclipse.buildId=4.25.0.I20220831-1800
 java.version=17.0.4.1
@@ -1003,9 +1029,15 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.jface 2 0 2022-10-13 23:45:58.006
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-10-13 23:45:58.006
+=======
+!ENTRY org.eclipse.jface 2 0 2022-10-11 17:52:26.737
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-10-11 17:52:26.737
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 =======
 !ENTRY org.eclipse.jface 2 0 2022-10-11 17:52:26.737
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
@@ -1029,7 +1061,11 @@ Binding(CTRL+SHIFT+T,
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-10-13 23:45:58.006
+=======
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-10-11 17:52:26.737
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 =======
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-10-11 17:52:26.737
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
@@ -1052,7 +1088,11 @@ Binding(ALT+SHIFT+R,
 	org.eclipse.ui.contexts.window,,,system)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.egit.ui 2 0 2022-10-13 23:46:00.441
+=======
+!ENTRY org.eclipse.egit.ui 2 0 2022-10-11 17:52:32.184
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 =======
 !ENTRY org.eclipse.egit.ui 2 0 2022-10-11 17:52:32.184
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
@@ -1062,7 +1102,10 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
 
 !ENTRY org.eclipse.equinox.p2.repository 2 0 2022-10-11 17:52:43.758
 !MESSAGE Using unsafe http transport to retrieve http://download.eclipse.org/mylyn/releases/latest/, see CVE-2021-41033. Consider using https instead.
@@ -1217,4 +1260,7 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-13 23:36:58.306
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+<<<<<<< HEAD
+>>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
+=======
 >>>>>>> b361e6db26bd798728aa9b0a7da8e7e0b81beb4f
