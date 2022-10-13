@@ -9,7 +9,7 @@ public class PrimeTest {
      public void evaluatesExpression() 
 	 {
 		Prime n=new Prime();
-		boolean s=n.isPrime(6);
+		boolean s=n.isPrime(2);
 		 assertEquals(false,s);
 		
 	 }
