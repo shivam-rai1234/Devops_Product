@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building for Dev enviroment...'
+                echo 'Building for DEV enviroment...'
             }
         }
         stage('Test') {
@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying in Dev to move to UAT'
+                echo 'Deploying in DEV to move to UAT'
             }
         }
     }
